@@ -1,5 +1,5 @@
 # BookStoreManagement
-Implement Book Store Management system using Spring Boot, Thymeleaf, HTML, CSS, and MySQL
+Implement Book Store Management system 
 
 - Set up Spring Boot web application structure
 - Integrated Thymeleaf for dynamic HTML rendering
